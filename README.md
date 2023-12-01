@@ -92,7 +92,6 @@ Ten projekt jest objęty licencją MIT - szczegóły w pliku [LICENSE](LICENSE).
 
 W razie pytań lub uwag skontaktuj się z autorem:
 
-- E-mail: mikeboro@example.com
 - GitHub: [MikeBoro](https://github.com/MikeBoro)
 
 **Ciesz się korzystaniem z AllegroApp!**
